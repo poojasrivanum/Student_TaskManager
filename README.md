@@ -305,7 +305,7 @@ https://your-deployed-url/swagger-ui/index.html
 
 # Resume Description
 
-Developed a Task Management REST API using Java 17, Spring Boot, Spring Data JPA, MySQL, Maven, and Postman. Implemented CRUD operations using layered architecture with Controller, Service, Repository, and Model layers. Integrated MySQL database and tested REST APIs using Postman and Swagger.
+Developed a Task Management REST API using Java 21, Spring Boot, Spring Data JPA, MySQL, Maven, and Postman. Implemented CRUD operations using layered architecture with Controller, Service, Repository, and Model layers. Integrated MySQL database and tested REST APIs using Postman and Swagger.
 
 ---
 
